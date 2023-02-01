@@ -10,27 +10,37 @@ const Footer = () => {
             <ul className="flex items-center">
               <li className="mx-3 font-medium text-sm">
                 <a href="http://" target="_blank" rel="noopener noreferrer">
-                  Link one
+                  More Behance
                 </a>
               </li>
               <li className="mx-3 font-medium text-sm">
                 <a href="http://" target="_blank" rel="noopener noreferrer">
-                  Link one
+                  English
                 </a>
               </li>
               <li className="mx-3 font-medium text-sm">
                 <a href="http://" target="_blank" rel="noopener noreferrer">
-                  Link one
+                  TOU
                 </a>
               </li>
               <li className="mx-3 font-medium text-sm">
                 <a href="http://" target="_blank" rel="noopener noreferrer">
-                  Link one
+                  Privacy
                 </a>
               </li>
               <li className="mx-3 font-medium text-sm">
                 <a href="http://" target="_blank" rel="noopener noreferrer">
-                  Link one
+                  Cookie 
+                </a>
+              </li>
+              <li className="mx-3 font-medium text-sm">
+                <a href="http://" target="_blank" rel="noopener noreferrer">
+                  Community
+                </a>
+              </li>
+              <li className="mx-3 font-medium text-sm">
+                <a href="http://" target="_blank" rel="noopener noreferrer">
+                  Help
                 </a>
               </li>
             </ul>
